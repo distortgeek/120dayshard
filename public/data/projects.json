@@ -1,0 +1,24 @@
+{
+  "mini_projects": [
+    {
+      "id": 1,
+      "name": "CLI Data Toolkit",
+      "description": "CSV cleaner and JSON exporter",
+      "estimated_days": 3
+    },
+    {
+      "id": 2,
+      "name": "Django Blog",
+      "description": "Auth + image upload",
+      "estimated_days": 4
+    }
+  ],
+  "capstones": [
+    {
+      "id": 101,
+      "name": "Full-Stack Dashboard",
+      "description": "MERN + ML integration",
+      "estimated_days": 14
+    }
+  ]
+}

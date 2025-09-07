@@ -1,0 +1,4082 @@
+[
+  {
+    "day": 1,
+    "month": 1,
+    "title": "Learning Topic 1",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "month": 1,
+    "title": "Learning Topic 2",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "month": 1,
+    "title": "Learning Topic 3",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "month": 1,
+    "title": "Learning Topic 4",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "month": 1,
+    "title": "Learning Topic 5",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "month": 1,
+    "title": "Learning Topic 6",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "month": 1,
+    "title": "Learning Topic 7",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "month": 1,
+    "title": "Learning Topic 8",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "month": 1,
+    "title": "Learning Topic 9",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "month": 1,
+    "title": "Learning Topic 10",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "month": 1,
+    "title": "Learning Topic 11",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "month": 1,
+    "title": "Learning Topic 12",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "month": 1,
+    "title": "Learning Topic 13",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "month": 1,
+    "title": "Learning Topic 14",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "month": 1,
+    "title": "Learning Topic 15",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "month": 1,
+    "title": "Learning Topic 16",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "month": 1,
+    "title": "Learning Topic 17",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "month": 1,
+    "title": "Learning Topic 18",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "month": 1,
+    "title": "Learning Topic 19",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "month": 1,
+    "title": "Learning Topic 20",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 21,
+    "month": 1,
+    "title": "Learning Topic 21",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "month": 1,
+    "title": "Learning Topic 22",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "month": 1,
+    "title": "Learning Topic 23",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "month": 1,
+    "title": "Learning Topic 24",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "month": 1,
+    "title": "Learning Topic 25",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "month": 1,
+    "title": "Learning Topic 26",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "month": 1,
+    "title": "Learning Topic 27",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 28,
+    "month": 1,
+    "title": "Learning Topic 28",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 29,
+    "month": 1,
+    "title": "Learning Topic 29",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "month": 1,
+    "title": "Learning Topic 30",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 31,
+    "month": 2,
+    "title": "Learning Topic 31",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "month": 2,
+    "title": "Learning Topic 32",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "month": 2,
+    "title": "Learning Topic 33",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "month": 2,
+    "title": "Learning Topic 34",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "month": 2,
+    "title": "Learning Topic 35",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "month": 2,
+    "title": "Learning Topic 36",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "month": 2,
+    "title": "Learning Topic 37",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "month": 2,
+    "title": "Learning Topic 38",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "month": 2,
+    "title": "Learning Topic 39",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "month": 2,
+    "title": "Learning Topic 40",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "month": 2,
+    "title": "Learning Topic 41",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "month": 2,
+    "title": "Learning Topic 42",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "month": 2,
+    "title": "Learning Topic 43",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "month": 2,
+    "title": "Learning Topic 44",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "month": 2,
+    "title": "Learning Topic 45",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "month": 2,
+    "title": "Learning Topic 46",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "month": 2,
+    "title": "Learning Topic 47",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "month": 2,
+    "title": "Learning Topic 48",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "month": 2,
+    "title": "Learning Topic 49",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "month": 2,
+    "title": "Learning Topic 50",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 51,
+    "month": 2,
+    "title": "Learning Topic 51",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "month": 2,
+    "title": "Learning Topic 52",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "month": 2,
+    "title": "Learning Topic 53",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "month": 2,
+    "title": "Learning Topic 54",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "month": 2,
+    "title": "Learning Topic 55",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "month": 2,
+    "title": "Learning Topic 56",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "month": 2,
+    "title": "Learning Topic 57",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "month": 2,
+    "title": "Learning Topic 58",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "month": 2,
+    "title": "Learning Topic 59",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "month": 2,
+    "title": "Learning Topic 60",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 61,
+    "month": 3,
+    "title": "Learning Topic 61",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "month": 3,
+    "title": "Learning Topic 62",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "month": 3,
+    "title": "Learning Topic 63",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "month": 3,
+    "title": "Learning Topic 64",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "month": 3,
+    "title": "Learning Topic 65",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "month": 3,
+    "title": "Learning Topic 66",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "month": 3,
+    "title": "Learning Topic 67",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "month": 3,
+    "title": "Learning Topic 68",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "month": 3,
+    "title": "Learning Topic 69",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "month": 3,
+    "title": "Learning Topic 70",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 71,
+    "month": 3,
+    "title": "Learning Topic 71",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "month": 3,
+    "title": "Learning Topic 72",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "month": 3,
+    "title": "Learning Topic 73",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "month": 3,
+    "title": "Learning Topic 74",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "month": 3,
+    "title": "Learning Topic 75",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "month": 3,
+    "title": "Learning Topic 76",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "month": 3,
+    "title": "Learning Topic 77",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "month": 3,
+    "title": "Learning Topic 78",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "month": 3,
+    "title": "Learning Topic 79",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "month": 3,
+    "title": "Learning Topic 80",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 81,
+    "month": 3,
+    "title": "Learning Topic 81",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "month": 3,
+    "title": "Learning Topic 82",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "month": 3,
+    "title": "Learning Topic 83",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "month": 3,
+    "title": "Learning Topic 84",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "month": 3,
+    "title": "Learning Topic 85",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "month": 3,
+    "title": "Learning Topic 86",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "month": 3,
+    "title": "Learning Topic 87",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "month": 3,
+    "title": "Learning Topic 88",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "month": 3,
+    "title": "Learning Topic 89",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "month": 3,
+    "title": "Learning Topic 90",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 91,
+    "month": 4,
+    "title": "Learning Topic 91",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 92,
+    "month": 4,
+    "title": "Learning Topic 92",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 93,
+    "month": 4,
+    "title": "Learning Topic 93",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "month": 4,
+    "title": "Learning Topic 94",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 95,
+    "month": 4,
+    "title": "Learning Topic 95",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 96,
+    "month": 4,
+    "title": "Learning Topic 96",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 97,
+    "month": 4,
+    "title": "Learning Topic 97",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "month": 4,
+    "title": "Learning Topic 98",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 99,
+    "month": 4,
+    "title": "Learning Topic 99",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 100,
+    "month": 4,
+    "title": "Learning Topic 100",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 101,
+    "month": 4,
+    "title": "Learning Topic 101",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 102,
+    "month": 4,
+    "title": "Learning Topic 102",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 103,
+    "month": 4,
+    "title": "Learning Topic 103",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 104,
+    "month": 4,
+    "title": "Learning Topic 104",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 105,
+    "month": 4,
+    "title": "Learning Topic 105",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 106,
+    "month": 4,
+    "title": "Learning Topic 106",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 107,
+    "month": 4,
+    "title": "Learning Topic 107",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 108,
+    "month": 4,
+    "title": "Learning Topic 108",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 109,
+    "month": 4,
+    "title": "Learning Topic 109",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 110,
+    "month": 4,
+    "title": "Learning Topic 110",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 111,
+    "month": 4,
+    "title": "Learning Topic 111",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 112,
+    "month": 4,
+    "title": "Learning Topic 112",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 113,
+    "month": 4,
+    "title": "Learning Topic 113",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 114,
+    "month": 4,
+    "title": "Learning Topic 114",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 115,
+    "month": 4,
+    "title": "Learning Topic 115",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 116,
+    "month": 4,
+    "title": "Learning Topic 116",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 117,
+    "month": 4,
+    "title": "Learning Topic 117",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 118,
+    "month": 4,
+    "title": "Learning Topic 118",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 119,
+    "month": 4,
+    "title": "Learning Topic 119",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  },
+  {
+    "day": 120,
+    "month": 4,
+    "title": "Learning Topic 120",
+    "subtasks": [
+      {
+        "title": "Theory",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Coding",
+        "time": "1.0h",
+        "difficulty": "Beginner"
+      },
+      {
+        "title": "Notes",
+        "time": "0.5h",
+        "difficulty": "Beginner"
+      }
+    ],
+    "resources": [
+      {
+        "lang": "en",
+        "title": "EN tutorial",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+      },
+      {
+        "lang": "hi",
+        "title": "HI tutorial",
+        "url": "https://www.youtube.com/c/CodeWithHarry"
+      }
+    ]
+  }
+]
